@@ -12,5 +12,11 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("xcqw 这是QA分支第一次提交");
         System.out.println("这是dev分支 第一次提交");
         System.out.println("这是dev分支 1.0");
+        System.out.println("这是dev分支 2.0 开发版本");
+        System.out.println("这是dev分支 2.0 开发完成");
+        System.out.println("这是dev分支 3.0 开发完成");
+        System.out.println("这是dev分支 3.0 bugfix");
+        System.out.println("这是dev分支 4.0 开发完成");
+
     }
 }
