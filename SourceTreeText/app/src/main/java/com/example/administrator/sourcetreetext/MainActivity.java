@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("这是dev分支 第一次提交");
         System.out.println("这是dev分支 1.0");
+        System.out.println("这是dev分支 2.0 开发版本");
     }
 }
