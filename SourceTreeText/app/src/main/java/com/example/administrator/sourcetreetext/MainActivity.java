@@ -10,5 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("xcqw 这是QA分支第一次提交");
+        System.out.println("这是dev分支 第一次提交");
+        System.out.println("这是dev分支 1.0");
     }
 }
